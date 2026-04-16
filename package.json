@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Contoh script WhatsApp bot untuk learning purpose",
+  "main": "whatsapp-bot.js",
+  "scripts": {
+    "start": "node whatsapp-bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "automation"
+  ],
+  "author": "elfarhan91-sketch",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.24.5"
+  },
+  "devDependencies": {}
+}
